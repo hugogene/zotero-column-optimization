@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Zotero Column Optimization"
+  },
+  "extensionDescription": {
+    "message": "Adds an Abstract column to the item list, and trims every item-type list down to the item types that actually exist in your library. Settings live in your profile, so they survive Zotero auto-updates."
+  }
+}

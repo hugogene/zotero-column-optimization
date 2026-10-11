@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "version": "1.0.0",
+  "description": "__MSG_extensionDescription__",
+  "author": "hugogene",
+  "default_locale": "en",
+  "applications": {
+    "zotero": {
+      "id": "zotero-column-optimization@hugogene",
+      "update_url": "https://github.com/hugogene/zotero-column-optimization/releases/latest/download/update.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "99.*"
+    }
+  }
+}

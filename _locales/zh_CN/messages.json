@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Zotero 列优化"
+  },
+  "extensionDescription": {
+    "message": "为条目列表增加「摘要」列；并把各处「条目类型清单」精简为本机实际存在的类型。设置保存在用户配置目录，Zotero 自动升级后依然有效。"
+  }
+}
